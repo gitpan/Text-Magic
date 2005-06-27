@@ -1,0 +1,7 @@
+Changes
+lib/Text/Magic.pm
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/test.pl
